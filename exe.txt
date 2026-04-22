@@ -1,0 +1,4 @@
+python -m PyInstaller --onefile --noconsole --name "Folder Locker" `
+--icon=icons/icon.ico `
+--add-data "icons/*;icons" `
+main.py
