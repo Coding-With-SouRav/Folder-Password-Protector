@@ -4,6 +4,9 @@
 <img width="999" height="914" alt="Screenshot 2026-04-22 124122" src="https://github.com/user-attachments/assets/d77a54a0-f4b0-4a70-96e4-7ca37118b3f7" />
 <img width="997" height="901" alt="Screenshot 2026-04-22 124313" src="https://github.com/user-attachments/assets/e7d8650b-3bdd-4f2e-a61e-e6e7116588e8" />
 
+## Application Download Link
+[Download Folder Locker](https://github.com/Coding-With-SouRav/Folder-Password-Protector/releases/download/v1.0.0/Folder.Locker.exe)
+
 # How to Use the Folder Locker Application
 
 This script creates a Windows application that password‑protects folders. When anyone tries to open a protected folder in File Explorer, a password dialog appears. The protection works even after the GUI is closed, thanks to a background monitor process.
