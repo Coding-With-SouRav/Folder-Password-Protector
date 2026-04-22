@@ -5,7 +5,7 @@
 <img width="997" height="901" alt="Screenshot 2026-04-22 124313" src="https://github.com/user-attachments/assets/e7d8650b-3bdd-4f2e-a61e-e6e7116588e8" />
 
 ## Application Download Link
-[Download Folder Locker](https://github.com/Coding-With-SouRav/Folder-Password-Protector/releases/download/v1.0.0/Folder.Locker.exe)
+[Download Folder Locker]([https://github.com/Coding-With-SouRav/Folder-Password-Protector/releases/download/v1.0.0/Folder.Locker.exe](https://github.com/Coding-With-SouRav/Folder-Password-Protector/releases/download/v1.0.0/Folder.Locker.exe))
 
 # How to Use the Folder Locker Application
 
