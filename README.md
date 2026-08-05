@@ -45,3 +45,12 @@ The initial password is **`1234`**.
 - It watches all File Explorer windows and intercepts attempts to open any folder listed as protected.
 - **Even if you close the main GUI, the protection remains active** because the monitor continues to run in the background.
 - To stop the monitor completely, you must end the process manually (e.g., via Task Manager). Look for a Python process running `main.py` or the packaged executable.
+
+
+---
+
+## Repository Maintenance
+
+Last automated maintenance: **2026-08-05 15:11 UTC**
+
+This repository's README is periodically refreshed to reflect ongoing maintenance.
