@@ -47,5 +47,3 @@ The initial password is **`1234`**.
 - To stop the monitor completely, you must end the process manually (e.g., via Task Manager). Look for a Python process running `main.py` or the packaged executable.
 
 
-<!-- AUTO UPDATE -->
-Last maintenance: 2026-08-07 07:21 UTC
